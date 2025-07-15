@@ -32,9 +32,3 @@ You can upgrade it to include:
 - **Collaborative Filtering**
 - **Hybrid Filtering**
 
-## 📥 Installation
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/recommendation-system.git
-   cd recommendation-system
